@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello everyone! I'm a Master's degree student in the Industrial and Systems Engineering department at KAIST where I am fortunate to be advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>.
+Hello world! 
 
-I'm researching with my colleagues at the <a href="http://silab.kaist.ac.kr">Systems Intelligence Laboratory</a> and my peers at the <a href="https://github.com/DiffEqML">DiffEqML</a> open research group.
+I'm a Master's degree student in the Industrial and Systems Engineering department at KAIST where I am fortunate to be advised by <a href="http://silab.kaist.ac.kr/our-team/">Prof. Jinkyoo Park</a>. I'm doing research with my colleagues at the <a href="http://silab.kaist.ac.kr">Systems Intelligence Laboratory</a> and my peers at the <a href="https://github.com/DiffEqML">DiffEqML</a> open research group.
 
 My research interest is mainly focused at the intersection of these areas:
 - Deep Learning
