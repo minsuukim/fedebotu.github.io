@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🚀  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: diffeqml.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://fedebotu.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -205,8 +205,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Dummyyyy
-  first_name: [s, Fd.]
+  last_name: Berto
+  first_name: [Federico, B.]
 
   style: apa
   locale: en
@@ -217,7 +217,7 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+  # bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true
   join_strings: true
