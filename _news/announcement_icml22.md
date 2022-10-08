@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ICML 2022
-date: 2022-06-06 00:11:00-0400
+title: NeurIPS 2021
+date: 2021-09-21 00:11:00-0400
 inline: true
 ---
-A paper got accepted at the AI4Science workshop at ICML 2022 (Oral)
+A paper got accepted at NeurIPS 2021

@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: (*) is used to denote equal contribution. Author order determined via one or more rounds of rock paper scissors.
-years: [2022]
+description: (*) is used to denote equal contribution. 
+years: [2022,2021]
 nav: true
 nav_order: 1
 ---

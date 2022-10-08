@@ -4,3 +4,15 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+
+"IEEE Transaction":
+  color: "#0000FF"
+
+
+"IEEE Conference":
+  color: "#0000FF"
+
+
+"DesignCon":
+  color: "33FF42"
